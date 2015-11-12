@@ -57,6 +57,6 @@ end
 Billy.configure do |c|
   c.cache = true
   c.persist_cache = true
-  c.non_whitelisted_requests_disabled = false
+  c.non_whitelisted_requests_disabled = true
   c.cache_path = 'spec/req_cache/'
 end
