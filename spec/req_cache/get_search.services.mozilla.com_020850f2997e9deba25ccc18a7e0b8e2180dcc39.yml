@@ -1,0 +1,12 @@
+---
+:scope: 
+:url: https://search.services.mozilla.com/1/firefox/41.0.2/release/en-US/JP/default/default
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Content-Type: application/json
+  Date: Wed, 11 Nov 2015 06:34:50 GMT
+  Content-Length: '62'
+  Connection: close
+:content: '{"interval": 2592000, "settings": {"searchDefault": "Google"}}'

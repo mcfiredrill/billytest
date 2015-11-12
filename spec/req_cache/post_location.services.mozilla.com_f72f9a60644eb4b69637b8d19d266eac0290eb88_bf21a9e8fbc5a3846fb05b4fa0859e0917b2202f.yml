@@ -1,0 +1,13 @@
+---
+:scope: 
+:url: https://location.services.mozilla.com/v1/country?key=7e40f68c-7938-4c5d-9f95-e61647c213eb
+:body: "{}"
+:status: 200
+:method: post
+:headers:
+  Content-Type: application/json; charset=UTF-8
+  Date: Wed, 11 Nov 2015 06:34:50 GMT
+  Server: nginx
+  Content-Length: '66'
+  Connection: close
+:content: '{"country_name": "Japan", "fallback": "ipf", "country_code": "JP"}'

@@ -1,0 +1,20 @@
+---
+:scope: 
+:url: http://www.google-analytics.com/r/__utm.gif?utmwv=5.6.7&utms=1&utmn=1281797976&utmhn=www.purple.com&utmcs=UTF-8&utmsr=1366x768&utmvp=1080x662&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=19.0%20r0&utmdt=www.purple.com&utmhid=1948184185&utmr=-&utmp=%2F&utmht=1447307638727&utmac=UA-27318022-1&utmcc=__utma%3D109712004.1534869930.1447307639.1447307639.1447307639.1%3B%2B__utmz%3D109712004.1447307639.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=1631037247&utmredir=1&utmu=qBAAAAAAAAAAAAAAAAAAAAAE~
+:body: ''
+:status: 302
+:method: get
+:headers:
+  Location: https://stats.g.doubleclick.net/r/collect?v=1&aip=1&t=dc&_r=3&tid=UA-27318022-1&cid=1534869930.1447307639&jid=1631037247&_v=5.6.7&z=1281797976
+  Access-Control-Allow-Origin: "*"
+  Date: Thu, 12 Nov 2015 05:53:58 GMT
+  Pragma: no-cache
+  Expires: Fri, 01 Jan 1990 00:00:00 GMT
+  Cache-Control: no-cache, no-store, must-revalidate
+  Last-Modified: Sun, 17 May 1998 03:00:00 GMT
+  Content-Type: text/html; charset=UTF-8
+  Server: Golfe2
+  Content-Length: '371'
+  Connection: close
+:content: "<HTML><HEAD><meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<TITLE>302
+  Moved</TITLE></HEAD><BODY>\n<H1>302 Moved</H1>\nThe document has moved\n<A HREF=\"https://stats.g.doubleclick.net/r/collect?v=1&amp;aip=1&amp;t=dc&amp;_r=3&amp;tid=UA-27318022-1&amp;cid=1534869930.1447307639&amp;jid=1631037247&amp;_v=5.6.7&amp;z=1281797976\">here</A>.\r\n</BODY></HTML>\r\n"
